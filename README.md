@@ -39,11 +39,11 @@ Product category details
 Orders and purchase amount
 
 ## -> Tech Stack
-Tool	              Purpose
-Python	         Analysis and processing
-Pandas	         Data cleaning and manipulation
-Matplotlib	     Data visualization
-Seaborn	         Statistical plots
+Tool	           
+1- Python - Analysis and processing
+2- Pandas - Data cleaning and manipulation
+3- Matplotlib - Data visualization
+4- Seaborn - Statistical plots
 ## -> Visualizations Used
 
 1- Count plots
