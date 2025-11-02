@@ -1,8 +1,8 @@
-📊 Diwali Sales Data Analysis
+Diwali Sales Data Analysis
 
 This project analyzes Diwali sales data to understand customer demographics, buying behavior, and spending trends during the festive season. The goal is to uncover insights that support business and marketing decisions.
 
-✅ Project Highlights
+Project Highlights
 
 Loaded and cleaned raw sales data
 
@@ -14,7 +14,7 @@ Performed exploratory data analysis (EDA)
 
 Visualized insights using Matplotlib and Seaborn
 
-🔍 Key Insights
+Key Insights
 
 Female customers purchased more compared to male customers
 
@@ -26,7 +26,7 @@ Working professionals showed strong buying patterns
 
 Popular product categories and spending distribution identified
 
-📂 Dataset Includes
+Dataset Includes
 
 Customer demographics
 
@@ -38,13 +38,13 @@ Product category details
 
 Orders and purchase amount
 
-🛠️ Tech Stack
+Tech Stack
 Tool	Purpose
 Python	Analysis and processing
 Pandas	Data cleaning and manipulation
 Matplotlib	Data visualization
 Seaborn	Statistical plots
-📈 Visualizations Used
+Visualizations Used
 
 Count plots
 
@@ -58,6 +58,6 @@ Line charts
 
 Heatmaps
 
-🎯 Objective
+Objective
 
 Help businesses better understand customer behavior during festive seasons and optimize marketing, pricing, and product strategies.
